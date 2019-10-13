@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://raetheepoa.composmentis.org/sitemap.xml
